@@ -1,3 +1,12 @@
+# **Welcome to my Self Driving Car Nano Degree Term 1 Project 1 readme**
+
+For potential employers or anybody trying to understand the project and how I went about it I recommend reading the [Full Report](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/blob/master/John%20Reilly%20Finding%20Lanes%20Project%201.pdf) which is a PDF of the project report as submitted for review to Udacity and contains an explaination of everything.
+
+
+
+
+For anybody wanting to see how much material and guidance Udacity give on the project and various files that are provided read the below which is a standard Udacity provided Readme for the project.
+
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
