@@ -22,10 +22,20 @@
 
 <img src="/Project_1_Feedback_2.PNG" width="800" alt="Feedback screenshot 2" />
 
-# If you want to run the code please read the following
+# If you want to run the code please refer to the links below
 
 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+The program is in [Python 3](https://www.python.org/) running in a [Jupyter Notebook](http://jupyter.org/)
+
+
+You can use the below conda environment to make sure all dependencies etc are present.
+
+Clone my repo to get all the files and run the notebook
+
+or
+
+Clone the Udacity project repo below, download my notebook and run in the same folder 
+
 
 Udacity default [readme file]( https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/blob/master/Udacitys_README.md), provides an overview and many links 
 
@@ -38,3 +48,5 @@ Udacity environment [CarND Term1 Starter Kit](https://github.com/udacity/CarND-T
 Udacity suggested [writeup template](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md), a suggestion for how the notebook should be presented
 
 Udacity [project rubric](https://review.udacity.com/#!/rubrics/322/view), to explain how it is graded.
+
+Udacity homepage for the course [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
