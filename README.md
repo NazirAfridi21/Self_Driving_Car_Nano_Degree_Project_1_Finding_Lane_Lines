@@ -1,16 +1,21 @@
 
 
-# **Please watch the following video, I walk you through the whole project in less than 10 minutes**
-My video
+# **Please watch the following video**
+##** I walk you through the whole project in less than 10 minutes**
+##** Right Click the link to download the video
+
 [My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
 
 # This is my report in as submitted for review.
-My report
+
 [My Report](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
 
 
 #This is the feedabck I got from the Udacity reviewer
-My feedback
+
+<img src="Project_Feedback_1.png" width="480" alt="Feedback screenshot 1" />
+
+<img src="Project_Feedback_2.png" width="480" alt="Feedback screenshot 2" />
 
 # If you want to run the code please read the following
 
