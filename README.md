@@ -6,7 +6,7 @@ My video
 
 # This is my report in as submitted for review.
 My report
-[My Report](/"John%20Reilly%20Finding%20Lanes%20Project%201.pdf")
+[My Report](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
 
 
 #This is the feedabck I got from the Udacity reviewer
