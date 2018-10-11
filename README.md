@@ -1,3 +1,28 @@
+
+
+# **Please watch the following video, I walk you through the whole project in less than 10 minutes**
+My video
+[My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
+
+# This is my report in as submitted for review.
+My report
+[My Report]("John Reilly Finding Lanes Project 1.pdf")
+)
+
+#This is the feedabck I got from the Udacity reviewer
+My feedback
+
+# If you want to run the code please read the following
+
+Udacity readme
+
+Udacity carndterm1 environment
+
+Udacity suggested template
+
+
+
+
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
