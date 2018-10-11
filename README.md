@@ -1,9 +1,9 @@
 
 
 # **Please watch the following video**
-# ** I walk you through the whole project in less than 10 minutes**
+# **I walk you through the whole project in less than 10 minutes**
 
-# ** Right Click the link to download the video
+# **Right Click the link to download the video**
 
 [My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
 
@@ -24,13 +24,17 @@
 
 # If you want to run the code please read the following
 
-Udacity readme
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-Udacity carndterm1 environment
+Udacity default readme file https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/blob/master/Udacitys_README.md, provides an overview and many links 
 
-Udacity suggested template
+Udacity provided [code](https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb), this is the basic code that is built upon by the student
 
+Udacity environment [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md), a conda environment to ensure the code runs correctly 
 
+Udacity suggested [writeup template](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md), a suggestion for how the notebook should be presented
+
+Udacity [project rubric](https://review.udacity.com/#!/rubrics/322/view), to explain how it is graded.
 
 
 # **Finding Lane Lines on the Road** 
