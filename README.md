@@ -16,7 +16,7 @@
 
 <img src="/Project_Feedback_1.PNG" width="480" alt="Feedback screenshot 1" />
 
-<img src="Project_Feedback_2.PNG" width="480" alt="Feedback screenshot 2" />
+<img src=/"Project_Feedback_2.PNG" width="480" alt="Feedback screenshot 2" />
 
 # If you want to run the code please read the following
 
