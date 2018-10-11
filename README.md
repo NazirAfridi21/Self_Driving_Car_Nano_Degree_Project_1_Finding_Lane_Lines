@@ -2,6 +2,7 @@
 
 # **Please watch the following video**
 ##** I walk you through the whole project in less than 10 minutes**
+
 ##** Right Click the link to download the video
 
 [My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
@@ -13,9 +14,9 @@
 
 #This is the feedabck I got from the Udacity reviewer
 
-<img src="/Project_Feedback_1.png" width="480" alt="Feedback screenshot 1" />
+<img src="/Project_Feedback_1.PNG" width="480" alt="Feedback screenshot 1" />
 
-<img src="/Project_Feedback_2.png" width="480" alt="Feedback screenshot 2" />
+<img src="Project_Feedback_2.PNG" width="480" alt="Feedback screenshot 2" />
 
 # If you want to run the code please read the following
 
