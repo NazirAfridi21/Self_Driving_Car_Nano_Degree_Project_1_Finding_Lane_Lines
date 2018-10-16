@@ -5,7 +5,8 @@
  **Right Click the link to download the video.** [ Video Link](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
 
 # **Project Report in pdf format as submitted for review.**
-**I refer to the report in the video, its 22 pages long.** [Report](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
+**I refer to the report in the video, its 22 pages long with still images of the videos.**
+**Left click the link to view online or Right Click the link to download a pdf.** [ Report Link](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
 
 
 # Project Feedback from Udacity Reviewer:
