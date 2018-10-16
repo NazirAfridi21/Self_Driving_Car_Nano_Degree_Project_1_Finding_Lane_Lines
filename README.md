@@ -7,8 +7,8 @@
 
 [My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
 
-# ** This is my report in pdf as submitted for review.**
-I refer to the report in the video, its 22 pages long
+# **This is my report in pdf as submitted for review.**
+**I refer to the report in the video, its 22 pages long**
 
 [My Report](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
 
