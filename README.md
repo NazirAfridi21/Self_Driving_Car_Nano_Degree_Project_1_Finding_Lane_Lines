@@ -1,5 +1,4 @@
 
-
 # **Please watch the following video**
  **I walk you through the whole project in less than 10 minutes**
 
@@ -7,13 +6,14 @@
 
 [My Video](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
 
-# **This is my report in pdf as submitted for review.**
-**I refer to the report in the video, its 22 pages long**
+# **Project Report in pdf format as submitted for review.**
+I refer to the report in the video, its 22 pages long
 
 [My Report](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
 
 
-# These are 2 screenshots showing the feedback from the Udacity reviewer
+# Project Feedback from Udacity Reviewer:
+Below are 2 screenshots showing the feedback from the Udacity reviewer
 
 <img src="/Project_1_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
 
