@@ -8,6 +8,9 @@
 **I refer to the report in the video, its 22 pages long with still images of the videos.**
 **Left Click the link to view online or Right Click the link to download a pdf.** [ Report Link](/John%20Reilly%20Finding%20Lanes%20Project%201.pdf)
 
+# **Project Notebook**
+**The Python code was created in Jupyter Notebook and can be seen online.** [Notebook Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/blob/master/Project_1_Notebook.ipynb)
+
 
 # **Project Feedback**
 **Below are 2 screenshots showing the feedback from the Udacity reviewer**
