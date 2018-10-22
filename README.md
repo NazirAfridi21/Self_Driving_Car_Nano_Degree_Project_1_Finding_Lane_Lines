@@ -1,7 +1,7 @@
 # **Presentation Video**
  **I present the whole project, notebook, files and outputs in a few minutes**
 
- **Right Click the link to download the video.** [ Video Link](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
+ **Right Click the link to download the video.** [ Video Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/blob/master/Project_1_Presentation_Video.mp4)
 
 # **Project Report**
 **My Original Report in pdf format as submitted to Udacity for review.**
